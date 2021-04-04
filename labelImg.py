@@ -49,7 +49,7 @@ from libs.create_ml_io import JSON_EXT
 from libs.ustr import ustr
 from libs.hashableQListWidgetItem import HashableQListWidgetItem
 
-__appname__ = 'labelImg'
+__appname__ = '지능형영상분석기술을활용한작물별주요병해충진단기술개발'
 
 
 class WindowMixin(object):
